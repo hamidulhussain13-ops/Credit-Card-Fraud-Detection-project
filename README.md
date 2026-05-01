@@ -1,2 +1,36 @@
-# Credit-Card-Fraud-Detection-project
-# Credit Card Fraud Detection  This project is a Machine Learning web app built using Streamlit to detect fraudulent transactions.  ## Features - Upload dataset - Train ML model - Predict fraud transactions  ## Tech Stack - Python - Streamlit - Scikit-learn  ## Run pip install -r requirements.txt streamlit run app.py
+# 💳 Credit Card Fraud Detection
+
+This is a Machine Learning web application built using Streamlit to detect fraudulent credit card transactions.
+
+---
+
+## 🚀 Features
+- Upload CSV dataset
+- Automatic model training
+- Fraud vs Normal transaction prediction
+- Simple and interactive UI
+
+---
+
+## 🛠️ Tech Stack
+- Python
+- Streamlit
+- Pandas
+- Scikit-learn
+
+---
+
+## 📂 Project Structure
+credit-card-fraud-detection/
+│
+├── app.py
+├── requirements.txt
+├── README.md
+
+---
+
+## ▶️ How to Run
+
+1. Install dependencies:
+```bash
+pip install -r requirements.txt
